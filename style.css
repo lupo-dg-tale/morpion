@@ -1,0 +1,10 @@
+table{
+    height: 70vh;
+    width: 70vh;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tr, td {
+    border: 2px black solid;
+}
